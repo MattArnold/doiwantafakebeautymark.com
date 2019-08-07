@@ -1,6 +1,6 @@
-# Do I Want A Fake Beauty Mark
+# Do I Want A Fake Beauty Mark?
 
-<button onclick="function(){ var no = document.getElementByID('no'); no.style.display = 'block'; }">click here</button>
+<button onclick="document.getElementByID('no').style.display = 'block';">Click Here</button>
 
 <span id="no" style="font-size: 10rem; display: none;">NO</span>
 
