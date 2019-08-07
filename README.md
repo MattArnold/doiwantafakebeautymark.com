@@ -1,8 +1,4 @@
----
-title: Do I Want A Fake Beauty Mark?
----
-
-# Do I Want A Fake Beauty Mark?
+# Do You Want A Fake Beauty Mark?
 
 <button onclick="document.getElementById('no').style.display = 'block';" style="height: 3rem; width: 7rem; font-weight: bold; border-radius: 1rem;">Click Here</button>
 
