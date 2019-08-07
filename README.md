@@ -6,7 +6,7 @@
 
 ## August 6, 2019, 9:42PM
 
-"You should make a site like a blog that lists stuff I've said." - Dana
+"You should make the site like a blog, where you put funny stuff I've said." - Dana
 
 ## August 6, 2019, 10:03PM
 
